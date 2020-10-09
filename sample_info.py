@@ -20,7 +20,7 @@ COLLECTION_NAME ='channel_files' # If you going to use same database, then use d
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Oi, Eu sou um bot de pesquisa das mídias do canal @dramanow**
 
 Here you can search files in inline mode. Just press follwing buttons and start searching.
 """
